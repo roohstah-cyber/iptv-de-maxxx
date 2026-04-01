@@ -1,1 +1,4 @@
+#EXTM3U
 
+#EXTINF:-1 group-title="FAST",FAST Demo Kanal
+https://example.com/demo-fast.m3u8

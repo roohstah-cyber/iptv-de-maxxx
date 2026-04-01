@@ -1,1 +1,10 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="daserste.de" group-title="ÖR",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-id="zdf.de" group-title="ÖR",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="arte.de" group-title="ÖR",ARTE HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393592/master.m3u8
